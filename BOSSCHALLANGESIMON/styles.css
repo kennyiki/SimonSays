@@ -1,0 +1,80 @@
+
+body {
+
+  text-align: center;
+}
+
+footer {
+
+  margin-top: 7%;
+  font-size: 2rem;
+  font-family: "Ubuntu"
+}
+
+
+.intro {
+
+  text-align: center;
+  font-size: 5rem;
+  margin: 2%;
+  font-family: "Ubuntu";
+  font-weight: 400;
+
+}
+
+.container {
+
+
+  width: 50%;
+  margin: auto;
+  padding: 2%;
+
+}
+
+
+.btn {
+
+  display: inline-block;
+  border: 10px;
+  border-color: black;
+  border-style: solid;
+  border-radius: 20%;
+  height: 200px;
+  width: 200px;
+  margin: 25px;
+
+}
+
+
+.green {
+
+  background-color: green;
+}
+
+.red {
+
+  background-color: red;
+}
+
+.yellow {
+
+  background-color: yellow;
+}
+
+.blue {
+
+  background-color: blue;
+}
+
+
+.pressed {
+
+    box-shadow: 0 0 20px white;
+    background-color: grey;
+}
+
+.game-over {
+
+  background-color: red;
+  opacity: 0.8;
+}
